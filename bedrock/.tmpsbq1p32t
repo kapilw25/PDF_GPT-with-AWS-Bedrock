@@ -1,0 +1,3 @@
+eval "$(/Users/kapilwanaskar/anaconda3/bin/conda shell.posix hook)"
+conda activate  /Users/kapilwanaskar/Downloads/AWS_BEDROCK/bedrock
+/Users/kapilwanaskar/Downloads/AWS_BEDROCK/bedrock/bin/python3.10 -Wi -m compileall -q -l -i /var/folders/_n/wqs6gy2s2z95mhp37pm6p79w0000gn/T/tmpo4v0w1h0 -j 0
